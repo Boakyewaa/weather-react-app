@@ -124,3 +124,10 @@ button {
   background: none;
   border: none;
 }
+.Weather-Forecast {
+  text-align: center;
+  display: inline-flex;
+}
+.row {
+  padding: 20px;
+}
