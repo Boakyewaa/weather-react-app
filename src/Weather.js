@@ -1,4 +1,5 @@
 import React from "react";
+import Forecast from "./Forecast.js";
 
 export default function Weather(){
     return(
@@ -97,12 +98,14 @@ export default function Weather(){
           </div>
         </div>
       </div>
-
+            <Forecast />
       <div>
-        <footer>
-          This project is coded by <span class="coder-name">Berlie </span> and
-          is open source
-        </footer>
+        
+          <footer>
+                         <a
+                            href="https://github.com/Boakyewaa/weather-app" target="_blank">open-sourcecode</a> by <span class="coder-name">Berlie </span> 
+                    </footer>
+        
       </div>
     </div>
     );
