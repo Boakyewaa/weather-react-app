@@ -98,7 +98,7 @@ export default function Weather(){
           </div>
         </div>
       </div>
-            <Forecast />
+            
       <div>
         
           <footer>
