@@ -103,7 +103,7 @@ export default function Weather(){
         
           <footer>
                          <a
-                            href="https://github.com/Boakyewaa/weather-app" target="_blank">open-sourcecode</a> by <span class="coder-name">Berlie </span> 
+                            href="https://github.com/Boakyewaa/weather-app" target="_blank" rel="noreferrer">open-sourcecode</a> by <span class="coder-name">Berlie </span> 
                     </footer>
         
       </div>
